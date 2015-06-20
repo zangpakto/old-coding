@@ -1,0 +1,5 @@
+C:\Documents and Settings\Ashley\My Documents\Visual Studio 2008\Projects\SimpleLinqNumberStuff\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ashley\My Documents\Visual Studio 2008\Projects\SimpleLinqNumberStuff\bin\Debug\SimpleLinqNumberStuff.exe
+C:\Documents and Settings\Ashley\My Documents\Visual Studio 2008\Projects\SimpleLinqNumberStuff\bin\Debug\SimpleLinqNumberStuff.pdb
+C:\Documents and Settings\Ashley\My Documents\Visual Studio 2008\Projects\SimpleLinqNumberStuff\obj\Debug\SimpleLinqNumberStuff.exe
+C:\Documents and Settings\Ashley\My Documents\Visual Studio 2008\Projects\SimpleLinqNumberStuff\obj\Debug\SimpleLinqNumberStuff.pdb
